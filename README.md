@@ -3,7 +3,7 @@
 Full Stack Developer specializing in building **responsive, user-centric web applications** with over **2 years of experience**. Passionate about crafting efficient, maintainable software solutions that optimize performance and scalability.
 
 🌟 **Quick Highlights**
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Languages:** JavaScript, TypeScript, Python, Java, HTML, CSS
 - **Frontend:** React.js, Next.js, Redux, Tailwind CSS, Ant Design
 - **Backend:** Node.js, Express.js, Prisma ORM
 - **Other Tools:** Docker, GraphQL, Postman, Swagger
