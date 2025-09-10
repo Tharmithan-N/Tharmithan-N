@@ -12,26 +12,38 @@ Full Stack Developer specializing in building **responsive, user-centric web app
 
 ## 🚀 Projects
 
-### [IoT Hubs and Sensors Management System](https://github.com/Tharmithan-N/IoT-Hubs-Sensors)
+### [IoT Hubs and Sensors Management System]
 - **Technologies:** React.js, Node.js, WebSocket, MQTT
 - Built a real-time IoT dashboard handling 100+ hubs and 1,000+ sensors.
 - Reduced data latency by **40%** using WebSocket and MQTT.
 - Integrated notifications for proactive issue management, decreasing downtime by **25%**.
 
-### [Network Devices Selling Site](https://github.com/Tharmithan-N/Network-Devices-Selling)
+### [Network Devices Selling Site]
 - **Technologies:** Next.js, React.js, Node.js
 - Designed a high-performance e-commerce platform with improved SEO (**+30%**).
 - Enhanced operational efficiency by automating the quotation process, saving **15%** processing time.
 
-### [Project Management System](https://github.com/Tharmithan-N/Project-Management-System)
+### [Project Management System]
 - **Technologies:** React.js, Node.js
 - Developed a secure task management system with multi-level access control for 200+ users.
 - Improved task completion rates by **25%** using logical triggers and optimizations.
 
-### [Cooperative Website and Web App](https://github.com/Tharmithan-N/Cooperative-Website)
+### [Cooperative Website and Web App]
 - **Technologies:** Next.js, Tailwind CSS, Framer Motion
 - Boosted web traffic by **40%** with SEO strategies and engaging animations.
 - Reduced feature development time by **30%** using reusable components.
+
+### [Tabwise – Free Online Tools Platform](https://tabwise.online/)
+- **Technologies:** Next.js, React.js, Node.js, Tailwind CSS  
+- Built a free **all-in-one productivity tools platform** (text cleaners, converters, generators, etc.) with 20+ tools.  
+- Achieved **5,000+ monthly visitors** through SEO-focused development.  
+- Optimized performance for fast tool execution, improving user engagement by **35%**.  
+
+### [NoteWise – AI-powered Quiz Generator](https://notewise.space/)
+- **Technologies:** Next.js, Node.js, OpenAI API, Tailwind CSS  
+- Developed an AI-driven platform where students and professionals can **generate quizzes from notes** or **custom interview inputs**.  
+- Allows role-based quiz creation (e.g., *Frontend Developer, 2+ years experience*) with instant evaluation and results.  
+- Increased learning efficiency by providing **personalized quiz experiences** for interview preparation and study.  
 
 ---
 
